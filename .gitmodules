@@ -1,0 +1,6 @@
+[submodule "COMP3901-Backend"]
+	path = COMP3901-Backend
+	url = https://github.com/Radite/COMP3901-Backend.git
+[submodule "COMP3901-FrontdeskApp"]
+	path = COMP3901-FrontdeskApp
+	url = https://github.com/Radite/COMP3901-FrontdeskApp.git
