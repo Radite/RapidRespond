@@ -4,3 +4,6 @@
 [submodule "COMP3901-FrontdeskApp"]
 	path = COMP3901-FrontdeskApp
 	url = https://github.com/Radite/COMP3901-FrontdeskApp.git
+[submodule "COMP3901-mobile-app"]
+	path = COMP3901-mobile-app
+	url = https://github.com/Radite/COMP3901-mobile-app
